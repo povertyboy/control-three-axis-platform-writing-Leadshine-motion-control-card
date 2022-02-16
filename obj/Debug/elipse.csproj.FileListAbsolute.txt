@@ -1,0 +1,9 @@
+G:\file\21年11月\Leadshine\elipse\elipse\obj\Debug\elipse.csprojAssemblyReference.cache
+G:\file\21年11月\Leadshine\elipse\elipse\obj\Debug\elipse.Form1.resources
+G:\file\21年11月\Leadshine\elipse\elipse\obj\Debug\elipse.Properties.Resources.resources
+G:\file\21年11月\Leadshine\elipse\elipse\obj\Debug\elipse.csproj.GenerateResource.cache
+G:\file\21年11月\Leadshine\elipse\elipse\bin\Debug\elipse.exe.config
+G:\file\21年11月\Leadshine\elipse\elipse\bin\Debug\elipse.exe
+G:\file\21年11月\Leadshine\elipse\elipse\bin\Debug\elipse.pdb
+G:\file\21年11月\Leadshine\elipse\elipse\obj\Debug\elipse.exe
+G:\file\21年11月\Leadshine\elipse\elipse\obj\Debug\elipse.pdb
